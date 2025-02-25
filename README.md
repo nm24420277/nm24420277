@@ -2,7 +2,6 @@
 - 👀 I’m interested in software development
 - - 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on projects
-- 📫 How to reach me on discord: 
 
 <!---
 nm24420277/nm24420277 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
